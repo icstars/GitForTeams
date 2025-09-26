@@ -1,4 +1,4 @@
-# GitForTeams
+# GitForTeams 
 
 V1 Conflict Demo Repo for practicing Git collaboration workflows, including branching, merging, and conflict resolution.
 
