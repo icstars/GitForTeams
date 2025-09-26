@@ -1,4 +1,4 @@
-# GitForTeams
+# GitForTeams 
 
 V1 Conflict Demo Repo for practicing Git collaboration workflows, including branching, merging, and conflict resolution.
 
@@ -6,6 +6,7 @@ V1 Conflict Demo Repo for practicing Git collaboration workflows, including bran
 
 ## Features
 
+- Made a real change!
 - Simulates Git merge conflicts using two branches
 - Demonstrates conflict resolution via CLI and GitHub PR UI
 - Includes sample issues and PR review checklist
